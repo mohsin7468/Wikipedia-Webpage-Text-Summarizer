@@ -12,7 +12,7 @@ You will see that a port has been opened, giving you a socket which starts from 
 
 You can know copy this whole socket, and past it into your browser URL and press enter.
 
-You will see the main front-end page of our Web-scrapper.
+You will see the main front-end page of our Wikipedia Webpage summarizer.
 
 *How to use:
 
